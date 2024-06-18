@@ -1,0 +1,1 @@
+pip install ipykernel numpy pandas app-store-scraper google-play-app_store_scraper
